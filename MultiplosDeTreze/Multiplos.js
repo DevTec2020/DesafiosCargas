@@ -38,4 +38,4 @@ let SomaTotal = SomaNaoMultiplos(SequenciaDeNumeros);
 // Apresentando valores em tela
 console.log(`Os Valores Sorteados foram: X: ${NumeroX} e Y: ${NumeroY} `)
 console.log(`Segue sequencia de números: ${GeraSequenciaDeNumeros(MenorValor, MaiorValor)}`)
-console.log(`A Soma dos multiplos é: ${SomaTotal}`)
+console.log(`A Soma dos não multiplos é: ${SomaTotal}`)
